@@ -68,44 +68,54 @@ screenshots/
 ├── booking_page.png
 
 
-🧪 Testing Summary
+## 🧪 Testing Summary
 Test cases were written and validated for:
 Admin login (valid/invalid)
 User registration and login
 Train booking workflows
 
 
-Data validation, page redirects, and session management
+## Data validation, page redirects, and session management
 Testing included:
 ✔️ Unit Testing
+
 ✔️ Integration Testing
+
 ✔️ Validation & Verification Testing
+
 ✔️ Black Box and White Box Testing
+
 ✔️ User Acceptance Testing
 
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 Integrate cancellation functionality
+
 Add real-time seat availability tracking
+
 Expand support for multi-country train routes
+
 Enable search/filter options for trains by class, route, or time
 
 
-👨‍💻 Contributors
+## 👨‍💻 Contributors
 A. Bala Keerthimai (18471A05C4)
+
 K. Sruthi (18471A05E5)
+
 G. Sri Gowri Poojitha (18471A05D8)
+
 T. Vishnu Priya (18471A05H8)
 Under the guidance of Mr. P. Lakshmi Narayana, M.Tech., Asst. Professor
 
-📚 References
-Beginning ASP.NET 3.5 in C# 2008 by George Shepherd
-ASP.NET 3.5 Unleashed by Stephen Walther
-Software Engineering by Roger S. Pressman
-Teach Yourself SQL by Ivan Baron
-W3Schools
+## 📚 References
+Beginning ASP.NET 3.5 in C# 2008 by George Shepherd,
+ASP.NET 3.5 Unleashed by Stephen Walther,
+Software Engineering by Roger S. Pressman,
+Teach Yourself SQL by Ivan Baron,
+W3Schools,
 Google
 
 
-© 2021 Narasaraopeta Engineering College — Department of CSE
+## © 2021 Narasaraopeta Engineering College — Department of CSE
 Let me know if you want a `requirements.txt`, `.gitignore`, or help deploying it 
